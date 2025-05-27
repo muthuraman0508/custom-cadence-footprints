@@ -1,0 +1,54 @@
+\t (03:18:38) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (03:18:38)     Journal start - Tue May 27 18:04:08 2025
+\t (03:18:38)         Host=DESKTOP-P2FNGAV User=HP Pid=1408 CPUs=2
+\t (03:18:38) 
+\i (03:18:40) FORM padedit parameters  
+\i (03:18:42) FORM padedit units Millimeter 
+\i (03:18:43) fillin yes 
+\w (03:18:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (03:18:47) FORM padedit hole_type Rectangle Slot 
+\i (03:18:49) FORM padedit hole_type Circle Drill 
+\i (03:18:54) FORM padedit layers  
+\i (03:18:55) FORM padedit single YES 
+\i (03:18:55) FORM padedit parameters  
+\i (03:19:02) FORM padedit layers  
+\i (03:19:05) FORM padedit geometry Rectangle 
+\i (03:19:12) FORM padedit width 0.6 
+\i (03:19:15) FORM padedit height 0.5 
+\i (03:19:19) FORM padedit grid rpopup begin_layer Copy 
+\i (03:19:21) FORM padedit grid row pastemask_top 
+\i (03:19:24) FORM padedit grid rpopup pastemask_top Paste 
+\i (03:19:25) FORM padedit grid row soldermask_top 
+\i (03:19:33) FORM padedit grid rpopup soldermask_top Paste 
+\i (03:19:44) FORM padedit width 1.1524 
+\i (03:19:50) FORM padedit height 0.6524 
+\i (03:19:52) FORM padedit parameters  
+\i (03:19:54) FORM padedit layers  
+\i (03:19:56) FORM padedit parameters  
+\i (03:20:19) FORM padedit layers  
+\i (03:20:21) FORM padedit crossbox YES 
+\i (03:20:26) FORM padedit grid row begin_layer 
+\i (03:20:29) FORM padedit width 0.5 
+\i (03:20:35) FORM padedit height 0.6 
+\i (03:20:37) FORM padedit grid row soldermask_top 
+\i (03:20:44) FORM padedit width 0.6524 
+\i (03:20:49) FORM padedit height 1.1524 
+\i (03:20:51) FORM padedit grid row pastemask_top 
+\i (03:20:54) FORM padedit width 0.5 
+\i (03:20:56) FORM padedit height 0.6 
+\i (03:20:58) FORM padedit parameters  
+\i (03:21:01) pse_save 
+\i (03:21:04) pse_summary 
+\i (03:21:23) setwindow text
+\i (03:21:23) close 
+\i (03:28:38) setwindow form.padedit
+\i (03:28:38) FORM padedit layers  
+\i (03:28:41) FORM padedit grid row soldermask_top 
+\i (03:28:46) pse_summary 
+\i (03:28:59) setwindow text
+\i (03:28:59) close 
+\i (03:29:01) setwindow form.padedit
+\i (03:29:01) FORM padedit parameters  
+\i (03:29:02) FORM padedit layers  
+\i (03:29:04) pse_exit
+\t (03:29:05)     Journal end - Tue May 27 18:14:35 2025
