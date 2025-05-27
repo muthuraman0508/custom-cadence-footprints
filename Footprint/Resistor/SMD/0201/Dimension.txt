@@ -1,0 +1,30 @@
+Resistor: 0201 SMD
+All the units are in mm
+
+Pad Dimension:
+Shape: Rectangular
+Pad:
+	-> Length => 0.3 mm
+	-> Width => 0.3 mm
+Solder Pad:
+	-> Length => 0.3 mm
+	-> Width => 0.3 mm
+Solder Mask:
+	-> Length => 0.3 + 0.1524 = 0.4524 mm
+	-> Width => 0.3 + 0.1524 = 0.4524 mm
+
+
+Pitch : 0.3 + 0.3 => 0.6 mm
+Assemely Top:
+	-> length => 0.6 mm
+	-> Width => 0.3 mm
+	-> Line width => 0.1270 mm
+Place Bound Top:
+	=> height => 0.25 mm
+
+Sill Screen:
+	-> length => 0.6 + 0.635 = 1.235 mm
+	-> Width => 0.3 + 0.635 = 0.935 mm
+DFA:
+	-> Expand 0.635 mm from the SST
+	

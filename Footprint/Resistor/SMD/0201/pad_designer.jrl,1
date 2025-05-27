@@ -1,0 +1,105 @@
+\t (00:00:45) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:45)     Journal start - Tue May 27 14:46:15 2025
+\t (00:00:45)         Host=DESKTOP-P2FNGAV User=HP Pid=1408 CPUs=2
+\t (00:00:45) 
+\i (00:00:47) FORM padedit units Millimeter 
+\i (00:00:49) fillin yes 
+\w (00:00:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:54) FORM padedit hole_type Rectangle Slot 
+\i (00:00:58) FORM padedit plating Non-Plated 
+\i (00:01:04) FORM padedit layers  
+\i (00:01:06) FORM padedit parameters  
+\i (00:01:07) FORM padedit layers  
+\i (00:01:09) FORM padedit grid row begin_layer 
+\i (00:01:11) FORM padedit geometry Rectangle 
+\i (00:01:18) FORM padedit width 0.3 
+\i (00:01:22) FORM padedit height 0.3 
+\i (00:01:24) FORM padedit crossbox YES 
+\i (00:01:25) FORM padedit stackbox YES 
+\i (00:01:31) FORM padedit grid rpopup begin_layer Copy 
+\i (00:01:44) FORM padedit grid row pastemask_top 
+\i (00:01:47) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:01:49) FORM padedit grid row soldermask_top 
+\i (00:01:53) FORM padedit geometry Oblong 
+\i (00:01:55) FORM padedit geometry Rectangle 
+\i (00:02:07) FORM padedit width 0.4524 
+\i (00:02:11) FORM padedit height 0.4524 
+\i (00:02:15) FORM padedit single YES 
+\i (00:02:24) FORM padedit parameters  
+\i (00:02:34) FORM padedit plating Plated 
+\i (00:02:40) FORM padedit layers  
+\i (00:02:42) FORM padedit crossbox YES 
+\i (00:02:44) FORM padedit stackbox YES 
+\i (00:02:46) pse_save 
+\i (00:02:51) setwindow text
+\i (00:02:51) close 
+\i (00:02:53) fillin no 
+\i (00:02:54) setwindow form.padedit
+\i (00:02:54) FORM padedit parameters  
+\i (00:02:58) FORM padedit hole_size_x 0.3 
+\i (00:03:01) FORM padedit hole_size_y 0.3 
+\i (00:03:04) FORM padedit layers  
+\i (00:03:06) FORM padedit crossbox YES 
+\i (00:03:07) FORM padedit stackbox YES 
+\i (00:03:08) FORM padedit crossbox YES 
+\i (00:03:11) FORM padedit parameters  
+\i (00:03:13) pse_save 
+\i (00:03:18) setwindow text
+\i (00:03:18) close 
+\i (00:03:19) fillin no 
+\i (00:03:31) setwindow form.padedit
+\i (00:03:31) FORM padedit layers  
+\i (00:03:32) FORM padedit single NO 
+\i (00:03:32) FORM padedit parameters  
+\i (00:03:36) FORM padedit hole_type Circle Drill 
+\i (00:03:42) FORM padedit hole_type Rectangle Slot 
+\i (00:03:48) FORM padedit hole_type Circle Drill 
+\i (00:03:52) FORM padedit drill_fig Square 
+\i (00:03:56) FORM padedit hole_type Rectangle Slot 
+\i (00:04:03) FORM padedit hole_size_y 0.3 
+\i (00:04:08) pse_save 
+\i (00:04:18) setwindow text
+\i (00:04:18) close 
+\i (00:04:23) fillin no 
+\i (00:04:24) setwindow form.padedit
+\i (00:04:24) FORM padedit layers  
+\i (00:04:28) FORM padedit grid row begin_layer 
+\i (00:06:03) FORM padedit parameters  
+\i (00:06:04) FORM padedit layers  
+\i (00:06:05) FORM padedit single YES 
+\i (00:06:06) FORM padedit parameters  
+\i (00:06:09) pse_save 
+\i (00:06:11) setwindow text
+\i (00:06:11) close 
+\i (00:06:12) fillin no 
+\i (00:07:53) setwindow form.padedit
+\i (00:07:53) FORM padedit layers  
+\i (00:07:54) FORM padedit stackbox YES 
+\i (00:07:59) FORM padedit parameters  
+\i (00:08:02) pse_summary 
+\i (00:08:27) setwindow text
+\i (00:08:27) close 
+\i (00:08:29) setwindow form.padedit
+\i (00:08:29) FORM padedit layers  
+\i (00:08:35) FORM padedit grid row soldermask_top 
+\i (00:08:36) FORM padedit grid row begin_layer 
+\i (00:08:37) FORM padedit grid row soldermask_top 
+\i (00:08:38) FORM padedit grid row soldermask_bottom 
+\i (00:08:39) FORM padedit grid row pastemask_top 
+\i (00:12:02) FORM padedit grid row soldermask_top 
+\i (00:12:04) FORM padedit grid rpopup soldermask_top Delete 
+\e (00:12:04) Could not delete layer.
+\i (00:12:08) FORM padedit grid rpopup soldermask_top Copy 
+\i (00:12:09) FORM padedit grid row pastemask_top 
+\i (00:12:14) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:12:18) FORM padedit grid row soldermask_top 
+\i (00:12:24) FORM padedit grid row pastemask_top 
+\i (00:12:28) FORM padedit crossbox YES 
+\i (00:12:29) FORM padedit stackbox YES 
+\i (00:12:34) FORM padedit width 0.3 
+\i (00:12:39) FORM padedit height 0.3 
+\i (00:13:16) pse_open 
+\i (00:13:40) fillin "D:\MUTHU_RAMAN\CADENCE_PROJECT\PCB_DESIGN\PAD_STACK\6332.pad"
+\i (00:13:40) cd "D:\MUTHU_RAMAN\CADENCE_PROJECT\PCB_DESIGN\PAD_STACK"
+\i (00:13:42) fillin yes 
+\t (00:13:42)     Journal end - Tue May 27 14:59:12 2025
