@@ -5,5 +5,15 @@ Custom PCB footprints designed using Cadence OrCAD/Allegro. This repository cont
 # Muthu's Cadence Footprints
 
 This repository is a collection of **custom PCB footprints** designed using **Cadence OrCAD/Allegro** tools. I plan to design and upload **at least one footprint (dimension) per day**, focused on accuracy and reuse in professional PCB designs.
+## 📅 My Progress
 
+| Date       | Component         | Package  | Status  |
+|------------|-------------------|----------|---------|
+| 2025-05-27 | SMD RESISTOR      | 0201     | ✅ Done |
+| 2025-05-27 | SMD RESISTOR      | 0402     | ✅ Done |
+
+## 🛠 Tools Used
+- Cadence OrCAD PCB Designer
+- Allegro PCB Editor
+- Padstack Editor
 ---
