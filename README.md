@@ -11,6 +11,9 @@ This repository is a collection of **custom PCB footprints** designed using **Ca
 |------------|-------------------|----------|---------|
 | 2025-05-27 | SMD RESISTOR      | 0201     | ✅ Done |
 | 2025-05-27 | SMD RESISTOR      | 0402     | ✅ Done |
+| 2025-05-28 | SMD RESISTOR      | 0603     | ✅ Done |
+| 2025-05-28 | SMD RESISTOR      | 0805     | ✅ Done |
+
 
 ## 🛠 Tools Used
 - Cadence OrCAD PCB Designer
