@@ -1,0 +1,361 @@
+\t (00:26:44) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:26:44)     Journal start - Wed May 28 11:34:36 2025
+\t (00:26:44)         Host=DESKTOP-P2FNGAV User=HP Pid=5632 CPUs=2
+\t (00:26:44) 
+\t (00:26:44) Starting new design...
+\i (00:26:44) trapsize 46833
+\i (00:26:44) trapsize 46833
+\i (00:26:48) prmed 
+\i (00:26:51) setwindow form.prmedit
+\i (00:26:51) FORM prmedit display_plated_holes YES 
+\i (00:26:51) FORM prmedit display_non_plated_holes YES 
+\i (00:26:53) FORM prmedit display_thermal YES 
+\i (00:26:53) FORM prmedit display_fat_rats YES 
+\i (00:26:54) FORM prmedit waived_drc_on YES 
+\i (00:26:54) FORM prmedit via_labels YES 
+\i (00:26:56) FORM prmedit display_grid YES 
+\t (00:26:56) Grids are drawn 10.1600, 10.1600 apart for enhanced viewability.
+\i (00:26:57) FORM prmedit design  
+\i (00:27:02) FORM prmedit display  
+\i (00:27:03) FORM prmedit view_grids_button  
+\t (00:27:03) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:27:07) setwindow form.grid
+\i (00:27:07) FORM grid non_etch non_etch_x_grids 0.1 
+\i (00:27:09) FORM grid non_etch non_etch_y_grids 0.1 
+\i (00:27:11) FORM grid all_etch all_etch_x_grids 0.1 
+\i (00:27:13) FORM grid all_etch all_etch_y_grids 0.1 
+\i (00:27:15) FORM grid done  
+\t (00:27:15) Grids are drawn 6.4000, 6.4000 apart for enhanced viewability.
+\i (00:27:16) setwindow form.prmedit
+\i (00:27:16) FORM prmedit apply  
+\i (00:27:17) FORM prmedit done  
+\i (00:27:20) setwindow pcb
+\i (00:27:20) zoom in 1 
+\i (00:27:20) setwindow pcb
+\i (00:27:20) zoom in -3.6586 0.0881
+\i (00:27:20) trapsize 23416
+\i (00:27:23) zoom in 1 
+\i (00:27:23) setwindow pcb
+\i (00:27:23) zoom in 0.5564 0.5565
+\t (00:27:23) Grids are drawn 1.6000, 1.6000 apart for enhanced viewability.
+\i (00:27:23) trapsize 11708
+\i (00:27:24) zoom in 1 
+\i (00:27:24) setwindow pcb
+\i (00:27:24) zoom in 0.0881 1.2590
+\i (00:27:24) trapsize 5854
+\i (00:27:25) zoom in 1 
+\i (00:27:25) setwindow pcb
+\i (00:27:25) zoom in 0.5565 1.1420
+\t (00:27:25) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:27:25) trapsize 2927
+\i (00:27:25) zoom in 1 
+\i (00:27:25) setwindow pcb
+\i (00:27:25) zoom in 0.5565 1.1420
+\i (00:27:25) trapsize 1464
+\i (00:27:25) zoom in 1 
+\i (00:27:25) setwindow pcb
+\i (00:27:25) zoom in 0.1467 0.9664
+\i (00:27:25) trapsize 732
+\i (00:27:25) zoom in 1 
+\i (00:27:25) setwindow pcb
+\i (00:27:25) zoom in 0.1467 0.9664
+\i (00:27:25) trapsize 366
+\i (00:27:26) zoom in 1 
+\i (00:27:26) setwindow pcb
+\i (00:27:26) zoom in 0.0223 -0.1312
+\i (00:27:26) trapsize 183
+\i (00:27:27) zoom in 1 
+\i (00:27:27) setwindow pcb
+\i (00:27:27) zoom in -0.0435 -0.2812
+\i (00:27:27) trapsize 91
+\i (00:27:37) enved 
+\i (00:27:41) setwindow form.prfedit
+\i (00:27:41) FORM prfedit padpath  
+\i (00:27:50) FORM prfedit psmpath  
+\i (00:27:57) FORM prfedit apply  
+\i (00:27:58) FORM prfedit done  
+\i (00:28:05) setwindow pcb
+\i (00:28:05) add pin 
+\i (00:28:08) setwindow form.mini
+\i (00:28:08) FORM mini pad_browse  
+\i (00:28:10) fillin "0805_Res"
+\t (00:28:10) Using '0805_RES.pad'.
+\i (00:28:16) FORM mini x_count 2 
+\i (00:28:20) FORM mini x_spacing 1.0000 
+\i (00:28:31) FORM mini x_spacing 1.9000 
+\i (00:28:37) FORM mini offsetx 0.0000 
+\i (00:29:04) setwindow pcb
+\i (00:29:04) pick -0.95 0 
+\t (00:29:04) last pick:  -0.9500  0.0000
+\t (00:29:04) Using '0805_RES.pad'.
+\i (00:29:05) zoom out 1 
+\i (00:29:05) setwindow pcb
+\i (00:29:05) zoom out 0.0553 -0.0580
+\i (00:29:05) trapsize 183
+\i (00:29:05) zoom out 1 
+\i (00:29:05) setwindow pcb
+\i (00:29:05) zoom out 0.0553 -0.0579
+\i (00:29:05) trapsize 366
+\i (00:29:06) prepopup 2.2727 -0.0506
+\i (00:29:07) done 
+\t (00:29:07) Exiting from Add Pin.
+\i (00:29:08) show measure 
+\i (00:29:10) pick grid -0.9400 0.0080
+\t (00:29:10) last pick:  -0.9000  0.0000
+\i (00:29:12) pick grid 0.9554 -0.0067
+\t (00:29:12) last pick:  1.0000  0.0000
+\i (00:29:16) pick grid 0.9115 0.7252
+\t (00:29:16) last pick:  0.9000  0.7000
+\i (00:29:17) pick grid -0.0033 0.0226
+\t (00:29:17) last pick:  0.0000  0.0000
+\i (00:29:19) prepopup 1.7897 0.1178
+\i (00:29:20) done 
+\i (00:29:24) add line 
+\i (00:29:29) setwindow form.mini
+\i (00:29:29) FORM mini class PACKAGE GEOMETRY 
+\i (00:29:32) FORM mini lock_direction 90 
+\i (00:29:39) FORM mini line_width 0.1270 
+\i (00:29:46) setwindow pcb
+\i (00:29:46) pick 0 0 
+\t (00:29:46) last pick:  0.0000  0.0000
+\i (00:29:55) pick 2 1.2 
+\t (00:29:55) last pick:  2.0000  1.2000
+\i (00:29:57) pick 0 0 
+\t (00:29:57) last pick:  0.0000  0.0000
+\i (00:29:59) prepopup -0.0618 -0.5262
+\i (00:30:00) done 
+\i (00:30:01) move 
+\t (00:30:02) Select element(s) to move.
+\i (00:30:05) setwindow form.mini
+\i (00:30:05) FORM mini rotate_point Body Center 
+\i (00:30:06) setwindow pcb
+\i (00:30:06) pick grid 2.0238 0.5495
+\t (00:30:06) last pick:  2.0000  0.5000
+\t (00:30:06) last pick:  1.0000  0.6000
+\t (00:30:06) Pick new location for the element(s).
+\i (00:30:09) pick 0 0 
+\t (00:30:09) last pick:  0.0000  0.0000
+\i (00:30:11) prepopup -0.1569 -0.8555
+\i (00:30:12) done 
+\i (00:30:14) label refdes 
+\t (00:30:14) Pick text location.
+\i (00:30:21) pick grid -0.1496 -0.5848
+\t (00:30:21) last pick:  -0.1000  -0.6000
+\t (00:30:21) Enter text string.
+\i (00:30:25) setwindow pcb
+\i (00:30:25) prepopup 2.0385 -0.4604
+\i (00:30:26) done 
+\i (00:30:26) setwindow pcb
+\i (00:30:26) pick -0.1000 -0.6000
+\i (00:30:28) setwindow pcb
+\i (00:30:28) move 
+\t (00:30:28) Select element(s) to move.
+\i (00:30:29) pick grid 0.2529 -0.1896
+\t (00:30:29) last pick:  0.3000  -0.2000
+\t (00:30:29) last pick:  0.3826  -0.3883
+\t (00:30:29) Pick new location for the element(s).
+\i (00:30:34) pick 0 0 
+\t (00:30:34) last pick:  0.0000  0.0000
+\i (00:30:36) prepopup 1.4164 -0.9141
+\i (00:30:37) done 
+\i (00:30:47) zcopy shape 
+\t (00:30:47) Select cline, shape, rectangle or closed polygon.
+\i (00:30:54) setwindow form.mini
+\i (00:30:54) FORM mini subclass_name PLACE_BOUND_TOP 
+\i (00:31:07) FORM mini offset 0.0000 
+\i (00:31:10) setwindow pcb
+\i (00:31:10) pick 0.2529 -0.5848
+\t (00:31:10) last pick:  0.2529  -0.5848
+\i (00:31:11) prepopup 0.4944 -1.0458
+\i (00:31:12) pop Done 
+\i (00:31:18) package_height 
+\i (00:31:19) pick grid 0.0333 -0.6067
+\t (00:31:19) last pick:  0.0000  -0.6000
+\i (00:31:27) setwindow form.mini
+\i (00:31:27) FORM mini height_max 0.45 
+\i (00:31:28) setwindow pcb
+\i (00:31:28) prepopup 2.3897 -0.3140
+\i (00:31:29) done 
+\i (00:31:30) 3d_viewer 
+\i (00:31:31) setwindow pcb3D
+\i (00:31:31) trapsize 366
+\i (00:31:42) setwindow pcb
+\i (00:31:42) add line 
+\i (00:31:49) setwindow form.mini
+\i (00:31:49) FORM mini subclass SILKSCREEN_TOP 
+\i (00:31:54) setwindow pcb
+\i (00:31:54) pick 0 0 
+\t (00:31:54) last pick:  0.0000  0.0000
+\i (00:32:07) pick 2.635 1.835 
+\t (00:32:07) last pick:  2.6350  1.8350
+\i (00:32:09) pick 0 0 
+\t (00:32:09) last pick:  0.0000  0.0000
+\i (00:32:11) prepopup -0.1130 -0.9214
+\i (00:32:12) done 
+\i (00:32:14) move 
+\t (00:32:14) Select element(s) to move.
+\i (00:32:15) pick grid 1.5994 0.0299
+\t (00:32:15) last pick:  1.6000  0.0000
+\t (00:32:15) last pick:  1.3175  0.9175
+\t (00:32:15) Pick new location for the element(s).
+\i (00:32:18) pick 0 0 
+\t (00:32:18) last pick:  0.0000  0.0000
+\i (00:32:19) prepopup 2.0458 -0.3067
+\i (00:32:21) done 
+\i (00:32:23) label refdes 
+\t (00:32:23) Pick text location.
+\i (00:32:26) setwindow form.mini
+\i (00:32:26) FORM mini subclass SILKSCREEN_TOP 
+\i (00:32:27) setwindow pcb
+\i (00:32:27) pick grid -0.0252 -0.8995
+\t (00:32:27) last pick:  0.0000  -0.9000
+\t (00:32:27) Enter text string.
+\i (00:32:30) setwindow pcb
+\i (00:32:30) prepopup 1.4677 -0.6945
+\i (00:32:31) done 
+\i (00:32:31) setwindow pcb
+\i (00:32:31) pick 0.0000 -0.9000
+\i (00:32:33) setwindow pcb
+\i (00:32:33) move 
+\t (00:32:33) Select element(s) to move.
+\i (00:32:35) pick grid 0.2675 -0.4970
+\t (00:32:35) last pick:  0.3000  -0.5000
+\t (00:32:35) last pick:  0.4826  -0.6883
+\t (00:32:35) Pick new location for the element(s).
+\i (00:32:37) pick 0 0 
+\t (00:32:37) last pick:  0.0000  0.0000
+\i (00:32:39) prepopup 2.5142 -0.8190
+\i (00:32:40) done 
+\i (00:32:53) zcopy shape 
+\t (00:32:53) Select cline, shape, rectangle or closed polygon.
+\i (00:33:07) setwindow form.mini
+\i (00:33:07) FORM mini subclass_name DFA_BOUND_TOP 
+\i (00:33:12) FORM mini offset 0.6350 
+\i (00:33:14) setwindow pcb
+\i (00:33:14) pick 1.2262 -0.8995
+\t (00:33:14) last pick:  1.2262  -0.8995
+\i (00:33:15) prepopup 2.2946 -0.4970
+\i (00:33:16) pop Done 
+\i (00:33:18) shape add rect 
+\i (00:33:23) setwindow form.mini
+\i (00:33:23) FORM mini class ROUTE KEEPOUT 
+\i (00:33:25) FORM mini subclass TOP 
+\i (00:33:29) setwindow pcb
+\i (00:33:29) zoom in 1 
+\i (00:33:29) setwindow pcb
+\i (00:33:29) zoom in -0.5887 -0.5701
+\i (00:33:29) trapsize 183
+\i (00:33:29) zoom in 1 
+\i (00:33:29) setwindow pcb
+\i (00:33:29) zoom in -0.5850 -0.5701
+\i (00:33:29) trapsize 91
+\i (00:33:31) pick grid -0.6051 -0.5976
+\t (00:33:31) last pick:  -0.6000  -0.6000
+\i (00:33:32) zoom out 1 
+\i (00:33:32) setwindow pcb
+\i (00:33:32) zoom out -0.2410 -0.4347
+\i (00:33:32) trapsize 183
+\i (00:33:32) zoom out 1 
+\i (00:33:32) setwindow pcb
+\i (00:33:32) zoom out -0.1971 -0.4091
+\i (00:33:32) trapsize 366
+\i (00:33:33) zoom in 1 
+\i (00:33:33) setwindow pcb
+\i (00:33:33) zoom in 0.6371 0.5934
+\i (00:33:33) trapsize 183
+\i (00:33:34) zoom in 1 
+\i (00:33:34) setwindow pcb
+\i (00:33:34) zoom in 0.6371 0.5934
+\i (00:33:34) trapsize 91
+\i (00:33:35) pick grid 0.6371 0.5934
+\t (00:33:35) last pick:  0.6000  0.6000
+\i (00:33:35) prepopup 0.6096 0.6044
+\i (00:33:36) done 
+\i (00:33:36) zoom out 1 
+\i (00:33:36) setwindow pcb
+\i (00:33:36) zoom out 0.5986 0.5898
+\i (00:33:36) trapsize 183
+\i (00:33:36) zoom out 1 
+\i (00:33:36) setwindow pcb
+\i (00:33:36) zoom out 0.5988 0.5897
+\i (00:33:36) trapsize 366
+\i (00:33:39) add connect 
+\w (00:33:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:33:39) Pick first element.
+\i (00:33:40) zoom out 1 
+\i (00:33:40) setwindow pcb
+\i (00:33:40) zoom out 2.2745 0.9044
+\i (00:33:40) trapsize 732
+\i (00:33:40) zoom out 1 
+\i (00:33:40) setwindow pcb
+\i (00:33:40) zoom out 2.2746 0.9045
+\i (00:33:40) trapsize 1464
+\i (00:33:41) pick grid 2.6551 1.5484
+\t (00:33:41) last pick:  2.7000  1.5000
+\t (00:33:41) last pick:  2.7000  1.5000
+\i (00:33:42) zoom in 1 
+\i (00:33:42) setwindow pcb
+\i (00:33:42) zoom in 0.3133 -1.5252
+\i (00:33:42) trapsize 732
+\i (00:33:49) mouse_pos -0.4770 -0.6470
+\i (00:33:49) mouse_pos -0.4477 -0.2372
+\i (00:33:50) mouse_pos -0.4624 -0.5738
+\i (00:33:51) mouse_pos -0.4477 -0.6616
+\i (00:33:53) mouse_pos -0.4624 -0.6616
+\i (00:33:54) mouse_pos -0.6673 -0.8226
+\i (00:33:54) zoom out 1 
+\i (00:33:54) setwindow pcb
+\i (00:33:54) zoom out 0.9574 -2.4618
+\i (00:33:54) trapsize 1464
+\i (00:33:55) prepopup 0.7231 -2.3448
+\i (00:33:56) done 
+\i (00:33:57) zoom in 1 
+\i (00:33:57) setwindow pcb
+\i (00:33:57) zoom in 0.8988 -1.6423
+\i (00:33:57) trapsize 732
+\i (00:33:57) zoom out 1 
+\i (00:33:57) setwindow pcb
+\i (00:33:57) zoom out 0.8988 -1.6422
+\i (00:33:57) trapsize 1464
+\i (00:33:57) zoom out 1 
+\i (00:33:57) setwindow pcb
+\i (00:33:57) zoom out 0.8988 -1.6423
+\i (00:33:57) trapsize 2927
+\i (00:33:58) zoom in 1 
+\i (00:33:58) setwindow pcb
+\i (00:33:58) zoom in 3.1819 0.9923
+\i (00:33:58) trapsize 1464
+\i (00:33:58) zoom in 1 
+\i (00:33:58) setwindow pcb
+\i (00:33:58) zoom in 3.2112 0.9923
+\i (00:33:58) trapsize 732
+\i (00:33:59) zoom in 1 
+\i (00:33:59) setwindow pcb
+\i (00:33:59) zoom in 2.5380 1.0069
+\i (00:33:59) trapsize 366
+\i (00:34:01) save 
+\t (00:34:01) Symbol '0805_res.psm' created.
+\i (00:34:04) 3d_viewer 
+\i (00:34:05) setwindow pcb3D
+\i (00:34:05) trapsize 366
+\i (00:34:07) view3d default_colors 
+\i (00:34:12) view3d boundingbox 
+\i (00:34:26) setwindow pcb
+\i (00:34:26) save 
+\i (00:34:27) fillin no 
+\i (00:34:29) fillin "menu_cancel"
+\i (00:34:30) zoom out 1 
+\i (00:34:30) setwindow pcb
+\i (00:34:30) zoom out 2.3404 -0.4713
+\i (00:34:30) trapsize 732
+\i (00:34:31) zoom out 1 
+\i (00:34:31) setwindow pcb
+\i (00:34:31) zoom out 2.3404 -0.4714
+\i (00:34:31) trapsize 1464
+\i (00:34:31) zoom in 1 
+\i (00:34:31) setwindow pcb
+\i (00:34:31) zoom in 2.3404 -0.4713
+\i (00:34:31) trapsize 732
+\i (00:34:32) zoom in 1 
+\i (00:34:32) setwindow pcb
+\i
