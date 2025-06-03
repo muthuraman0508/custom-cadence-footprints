@@ -15,6 +15,7 @@ This repository is a collection of **custom PCB footprints** designed using **Ca
 | 2025-05-28 | SMD RESISTOR      | 0805                | ✅ Done |
 | 2025-06-01 | TH RESISTOR       | PTF561K0000AYEK     | ✅ Done |
 | 2025-06-02 | SMD RESISTOR      | 1206                | ✅ Done |
+| 2025-06-03 | SMD RESISTOR      | 1812                | ✅ Done |
 
 
 ## 🛠 Tools Used
